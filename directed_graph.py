@@ -1,5 +1,3 @@
-# directed_graph.py
-
 from collections import defaultdict
 
 class DirectedGraph:
@@ -45,6 +43,7 @@ class DirectedGraph:
 
         return scc
 
+    # Compressing the graph based on the Components
     def compress_graph(self, sccs):
         compressed_graph = defaultdict(set)
         scc_map = {}
