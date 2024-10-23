@@ -49,8 +49,8 @@ This project uses **Tarjan's Algorithm** to find **Strongly Connected Components
 
 1. **Clone the repository**:
     ```bash
-    git clone <https://github.com/jones-blackwell/airliner_flight_routes_optimizing.git>
-    cd <airliner_flight_routes_optimizing>
+    git clone https://github.com/jones-blackwell/airliner_flight_routes_optimizing.git
+    cd airliner_flight_routes_optimizing
     ```
 
 2. **Run the program** with the start airport as a command-line argument:
